@@ -78,6 +78,10 @@ public class ApiTask2{
 		    Object text = json.get("text");
 		    String t =(String) text;
 		    System.out.println(t);
+		    System.out.println(t);
+		    System.out.println(t);
+		    System.out.println(t);
+
 		
 	}	
 
