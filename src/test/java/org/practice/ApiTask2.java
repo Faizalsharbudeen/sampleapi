@@ -81,7 +81,6 @@ public class ApiTask2{
 		    System.out.println(t);
 		    System.out.println(t);
 		    System.out.println(t);
-
 		
 	}	
 
